@@ -1,0 +1,8 @@
+***This mod must be placed before any items that modify the berry seeds, to have full functionality, however, it can be placed anywhere if you do not care about the 10k berry stacks in the crop plot, and only want the increased growth rate/inventory size***
+
+This mod adds large crop plots which have a configurable inventory size, and configurable greenhouse effect modifier, allowing for faster berry growth and reducing the need to have brontos. Great for high multiplier pvp servers!
+This mod adds berry seeds which have an increased stack size (1000) and an increased max crop size (10000) for the berries associated with this mod's seeds.
+
+INI/Configuration settings are in the discussions area.
+
+Big thanks to jslay and Orionsun from discord, for helping me through some of the replication and logic.
